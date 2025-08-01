@@ -1,4 +1,4 @@
-# AgriData Explorer: Understanding Indian Agriculture Through Data
+# AgriData Explorer: 
 AgriData Explorer is a complete data analysis project focused on Indian agricultural trends across crops, states, and districts.
 The project begins with importing and cleaning a rich CSV dataset containing crop production, area, and yield metrics for over 70 columns.
 Using Python (pandas, matplotlib, seaborn), we perform exploratory data analysis (EDA) to answer key agricultural questions.
